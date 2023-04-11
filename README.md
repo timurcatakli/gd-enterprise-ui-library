@@ -1,2 +1,0 @@
-gd-enterprise-ui-library npm token
-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
